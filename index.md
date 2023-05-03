@@ -17,4 +17,4 @@ that turns on if a presence is detected and turns off after fixed period of time
 the application by changing the password and being able to modify the timer value
 ![block_diagram](/assets/block_diagram.jpg)
 
-Here is the block diagram of our device
+Here is the block diagram of our device.
