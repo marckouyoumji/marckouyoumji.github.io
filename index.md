@@ -16,6 +16,6 @@ It will have the ability to grant or deny access to vehicles trying to enter the
 that turns on if a presence is detected and turns off after fixed period of time. In addition to that, it will be possible for the owner to customize 
 the application by changing the password and being able to modify the timer value
 
-![block_diagram](/assets/block_diagram.png)
+![block_diagram](/assets/block_diagram.jpg)
 
 Here is the block diagram of our device.
