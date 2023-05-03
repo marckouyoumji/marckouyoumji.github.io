@@ -18,4 +18,4 @@ the application by changing the password and being able to modify the timer valu
 
 ![block_diagram](/assets/block_diagram.jpg)
 
-Here is the block diagram of our device.
+Here is the block diagram of our device
