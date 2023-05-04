@@ -11,13 +11,13 @@ title: "Smart Garage Project"
 
 ## Project Idea
 
-The idea is to have an automated and secure smart parking garage-system.
-It will have the ability to grant or deny access to vehicles trying to enter the parking space through a password. We also included automated lighting
-that turns on if a presence is detected and turns off after fixed period of time. In addition to that, it will be possible for the owner to customize 
+With the growing trend towards smart homes and automation, our team was inpired to create an automate, secure and seamless parking system for homeowners. With this project, we hope to create a seamless, time-saving system for our users.The main idea behind our project is to have an automated and secure smart parking garage-system.
+The garage will have the ability to grant or deny access to vehicles trying to enter the parking space through a password. Another feature included in the system is automated lighting that turns on if a presence is detected and turns off after fixed period of time. In addition to that, it will be possible for the owner to customize 
 the application by changing the password and being able to modify the timer value
 
 
 ## Components
+Here are the componenets we used for this project:
 
 1. Mbed
 2. Bluetooth module
@@ -33,6 +33,10 @@ the application by changing the password and being able to modify the timer valu
 ## Schematic 
 
 ![block_diagram](/assets/block_diagram.jpg)
+
+
+## Wiring
+
 
 
 ## Software
