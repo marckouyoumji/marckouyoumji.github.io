@@ -41,7 +41,7 @@ As seen in the pictures below, here is part of the user interface that will be d
 
 ![photo1](/assets/photo1.jpg)
 
-![photo2](/assets/photo2.jpg)
+![photo3](/assets/photo3.jpg)
 
 
 ## Source code
