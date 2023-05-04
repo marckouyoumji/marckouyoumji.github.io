@@ -63,4 +63,3 @@ main.cpp for mbed:
 
 {% include_relative main.cpp %}
 
-
