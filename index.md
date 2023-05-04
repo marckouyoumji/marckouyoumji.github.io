@@ -61,5 +61,5 @@ As seen in the pictures below, here is part of the user interface that will be d
 
 main.cpp for mbed:
 
-{% include_relative main.cpp %}
+{% main.cpp %}
 
