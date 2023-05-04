@@ -19,3 +19,18 @@ the application by changing the password and being able to modify the timer valu
 ![block_diagram](/assets/block_diagram.jpg)
 
 Here is the block diagram of our device.
+
+## Components
+
+1. Mbed
+2. Bluetooth module
+3. LEDs
+4. Relay
+5. LCD
+6. Servo
+7. Speaker
+8. Class D Amplifier
+9. Lidar
+
+
+
