@@ -12,11 +12,6 @@ Demo videos(ckick on the images to watch them):
 [![Second_Demo](https://i.ytimg.com/vi/QI__TS8yvyU/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYZiBmKGYwDw==&rs=AOn4CLA4v-t-SSm1el0Rvm0_c-11m2yzyA)](https://www.youtube.com/watch?v=QI__TS8yvyU&t=1s)
 
 
- 
-
-![IMG_2382](/assets/IMG_2382.jpg)
-
-
 ## Project Idea
 
 The idea is to have an automated and secure smart parking garage-system.
