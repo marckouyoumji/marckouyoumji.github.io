@@ -6,6 +6,10 @@ title: "Smart Garage Project"
 **Georgia Institute of Technology** 
 
 Demo videos: 
+
+[![First_Demo](https://i.ytimg.com/vi/rbNB8Ycp9Kk/oar2.jpg)](https://www.youtube.com/shorts/rbNB8Ycp9Kk)
+
+
 1- https://www.youtube.com/shorts/aY3VoqIoTuU
 2- https://www.youtube.com/watch?v=QI__TS8yvyU
  
