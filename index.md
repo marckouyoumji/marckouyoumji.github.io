@@ -4,6 +4,10 @@ title: "Smart Garage Project"
 ---
 **Team Members: Bhavya Lokasani, Pari Goyal, Marc Kouyoumji, Yalaj Goyal**  
 **Georgia Institute of Technology** 
+
+Demo videos: 
+- https://www.youtube.com/shorts/aY3VoqIoTuU
+- https://www.youtube.com/watch?v=QI__TS8yvyU
  
 
 ![IMG_2382](/assets/IMG_2382.jpg)
